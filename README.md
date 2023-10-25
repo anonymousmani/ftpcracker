@@ -10,7 +10,7 @@ Welcome to the Python FTP Credential Login Brute-Force Attack repository! This p
 
 - **Logging and Output**: Provides detailed logging of login attempts and successes, making it useful for security auditing and analysis.
 
-- ** 👮 Educational**: Offers insights into the importance of secure credentials and the risks of weak passwords, serving as a valuable educational tool for cybersecurity enthusiasts and professionals.
+- **👮 Educational**: Offers insights into the importance of secure credentials and the risks of weak passwords, serving as a valuable educational tool for cybersecurity enthusiasts and professionals.
 
 ## 💻 Usage
 
