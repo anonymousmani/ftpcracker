@@ -33,7 +33,7 @@ Welcome to the Python FTP Credential Login Brute-Force Attack repository! This p
 5. Run the script:
 
    ```bash
-   python ftp_bruteforce.py
+   python ftpcracked.py
    ```
 
    The script will use multiple threads to perform the brute-force attack.
