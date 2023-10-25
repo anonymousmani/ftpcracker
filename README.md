@@ -12,7 +12,7 @@ Welcome to the Python FTP Credential Login Brute-Force Attack repository! This p
 
 - **Educational**: Offers insights into the importance of secure credentials and the risks of weak passwords, serving as a valuable educational tool for cybersecurity enthusiasts and professionals.
 
-## Usage
+## 💻 Usage
 
 1. Clone the repository to your local machine:
 
@@ -38,7 +38,7 @@ Welcome to the Python FTP Credential Login Brute-Force Attack repository! This p
 
    The script will use multiple threads to perform the brute-force attack.
 
-##  Disclaimer
+##  ⚠️ Disclaimer
 
 It's crucial to emphasize that unauthorized brute-force attacks on systems or networks are illegal and unethical. This project is intended for educational and security audit purposes only. Always obtain proper authorization before using such tools, and adhere to ethical hacking practices.
 
