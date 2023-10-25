@@ -10,7 +10,7 @@ Welcome to the Python FTP Credential Login Brute-Force Attack repository! This p
 
 - **Logging and Output**: Provides detailed logging of login attempts and successes, making it useful for security auditing and analysis.
 
-- **Educational**: Offers insights into the importance of secure credentials and the risks of weak passwords, serving as a valuable educational tool for cybersecurity enthusiasts and professionals.
+- ** 👮 Educational**: Offers insights into the importance of secure credentials and the risks of weak passwords, serving as a valuable educational tool for cybersecurity enthusiasts and professionals.
 
 ## 💻 Usage
 
@@ -42,7 +42,7 @@ Welcome to the Python FTP Credential Login Brute-Force Attack repository! This p
 
 It's crucial to emphasize that unauthorized brute-force attacks on systems or networks are illegal and unethical. This project is intended for educational and security audit purposes only. Always obtain proper authorization before using such tools, and adhere to ethical hacking practices.
 
-## Contribution
+## 💝 Contribution
 
 Contributions to enhance this project, improve its functionality, or provide additional features are welcomed. Please follow these steps to contribute:
 
